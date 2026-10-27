@@ -243,3 +243,10 @@ The design includes:
 - Common ground connections.
 
 ### 🔌 Final
+
+<img width="3000" height="4000" alt="1793103307446" src="https://github.com/user-attachments/assets/bae52c0d-3d37-46cd-9bf3-fe2e94a6b8d3" />
+<img width="3000" height="4000" alt="1793103307492" src="https://github.com/user-attachments/assets/04d0fad9-6b19-473c-837a-99ca58715bc3" />
+<img width="3000" height="4000" alt="1793103307514" src="https://github.com/user-attachments/assets/5bbb63fa-1387-4b05-b76d-3c3639efcb06" />
+
+
+
